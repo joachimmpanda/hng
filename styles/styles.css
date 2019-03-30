@@ -1,0 +1,109 @@
+.bigimg {
+   position: absolute;
+   width: 300px;
+   height: 300px;
+   left: 112px;
+   top: 90px;
+   border: 1px solid #E5E5E5;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.name {
+    position: absolute;
+    width: 361px;
+    height: 64px;
+    left: 82px;
+    top: 422px;
+    font-family: Yu Gothic UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: normal;
+}
+
+.bio {
+   position: absolute;
+   width: 206px;
+   height: 32px;
+   left: 159px;
+   top: 496px;
+   font-family: Yu Gothic UI;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: normal;
+}
+
+.abp {
+ 	 position: absolute;
+     width: 269px;
+     height: 32px;
+     left: 128px;
+     top: 614px;
+     font-family: Yu Gothic UI;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: normal;
+}
+
+.one {
+	position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 112px;
+    top: 803px;
+}
+
+.two {
+	position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 217px;
+    top: 803px;
+}
+
+.three {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 322px;
+    top: 803px;
+}
+
+.line {
+    width: 905.01px;
+    height: 0px;
+    left: 566px;
+    top: 60px;
+    border: 1px solid #000000;
+    transform: rotate(89.74deg);
+}
+
+.aboutme {
+	position: absolute;
+    width: 234px;
+    height: 64px;
+    left: 632px;
+    top: 90px;
+
+    font-family: Yu Gothic UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: normal;
+}
+
+.p1 {
+	position: absolute;
+    width: 700px;
+    height: 96px;
+    left: 632px;
+    top: 233px;
+
+    font-family: Yu Gothic UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: normal;
+}
