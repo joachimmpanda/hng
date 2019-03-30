@@ -1,7 +1,7 @@
 .bigimg {
    position: absolute;
-   width: 300px;
-   height: 300px;
+   width: 150px;
+   height: 150px;
    left: 112px;
    top: 90px;
    border: 1px solid #E5E5E5;
@@ -12,12 +12,12 @@
     position: absolute;
     width: 361px;
     height: 64px;
-    left: 82px;
-    top: 422px;
+    left: 100px;
+    top: 255px;
     font-family: Yu Gothic UI;
     font-style: normal;
     font-weight: normal;
-    font-size: 48px;
+    font-size: 24px;
     line-height: normal;
 }
 
@@ -25,12 +25,12 @@
    position: absolute;
    width: 206px;
    height: 32px;
-   left: 159px;
-   top: 496px;
+   left: 140px;
+   top: 300px;
    font-family: Yu Gothic UI;
    font-style: normal;
    font-weight: normal;
-   font-size: 24px;
+   font-size: 12px;
    line-height: normal;
 }
 
@@ -39,36 +39,36 @@
      width: 269px;
      height: 32px;
      left: 128px;
-     top: 614px;
+     top: 400px;
      font-family: Yu Gothic UI;
      font-style: normal;
      font-weight: normal;
-     font-size: 24px;
+     font-size: 12px;
      line-height: normal;
 }
 
 .one {
 	position: absolute;
-    width: 90px;
-    height: 90px;
+    width: 45px;
+    height: 45px;
     left: 112px;
-    top: 803px;
+    top: 600px;
 }
 
 .two {
 	position: absolute;
-    width: 90px;
-    height: 90px;
-    left: 217px;
-    top: 803px;
+    width: 45px;
+    height: 45px;
+    left: 165px;
+    top: 600px;
 }
 
 .three {
     position: absolute;
-    width: 90px;
-    height: 90px;
-    left: 322px;
-    top: 803px;
+    width: 45px;
+    height: 45px;
+    left: 213px;
+    top: 600px;
 }
 
 .line {
